@@ -1,0 +1,1569 @@
+{
+  "users":[
+    {
+      "nick_name": "ddfdsf",
+      "id": 1,
+      "sex":"女",
+      "email":"1232@123.com",
+      "update_time":"1212-21-21",
+      "signature":"我只是个传输",
+      "integral":10,
+      "role_name":"普通用户",
+      "plate_id":1,
+      "plate_name":"学习版块",
+      "postNum|1-100":20
+    },
+    {
+      "nick_name": "下一名",
+      "id": 2,
+      "sex":"女",
+      "email":"1232@123.com",
+      "update_time":"1212-21-21",
+      "signature":"我是爸爸",
+      "integral":30,
+      "role_name":"版主",
+      "plate_id":1,
+      "plate_name":"生活版块",
+      "postNum|1-100":20
+    },
+    {
+      "nick_name|3": "王旭航",
+      "id": 3,
+      "sex":"女",
+      "email":"1232@123.com",
+      "update_time":"1212-21-21",
+      "signature|3":"我是爸爸",
+      "integral":566,
+      "role_name":"普通用户",
+      "plate_id":4,
+      "postNum|1-100":100
+    },
+    {
+      "nick_name": "小航",
+      "id": 4,
+      "sex":"女",
+      "email":"1452@123.com",
+      "update_time":"1212-21-21",
+      "signature|3":"我是妹妹",
+      "integral":96,
+      "role_name":"普通用户",
+      "plate_id":4,
+      "plate_name":"游戏",
+      "postNum|1-100":100
+    },
+    {
+      "nick_name": "tan",
+      "id": 5,
+      "sex":"女",
+      "email":"15552@123.com",
+      "update_time":"1212-21-21",
+      "signature|3":"我是jiage",
+      "integral":96,
+      "role_name":"普通用户",
+      "plate_id":4,
+      "plate_name":"完",
+      "postNum|1-100":130
+    },
+    {
+      "nick_name": "qixi",
+      "id": 6,
+      "sex":"女",
+      "email":"132@123.com",
+      "update_time":"1212-21-21",
+      "signature":"我是爸爸",
+      "integral":566,
+      "role_name":"普通用户",
+      "plate_id":4,
+      "plate_name":"谭佳版块",
+      "postNum|1-100":100
+    },
+    {
+      "nick_name": "ddfdsf",
+      "id": 1,
+      "sex":"女",
+      "email":"1232@123.com",
+      "update_time":"1212-21-21",
+      "signature":"我只是个传输",
+      "integral":10,
+      "role_name":"普通用户",
+      "plate_id":1,
+      "plate_name":"学习版块",
+      "postNum|1-100":20
+    },
+    {
+      "nick_name": "下一名",
+      "id": 2,
+      "sex":"女",
+      "email":"1232@123.com",
+      "update_time":"1212-21-21",
+      "signature":"我是爸爸",
+      "integral":30,
+      "role_name":"版主",
+      "plate_id":1,
+      "plate_name":"生活版块",
+      "postNum|1-100":20
+    },
+    {
+      "nick_name|3": "王旭航",
+      "id": 3,
+      "sex":"女",
+      "email":"1232@123.com",
+      "update_time":"1212-21-21",
+      "signature|3":"我是爸爸",
+      "integral":566,
+      "role_name":"普通用户",
+      "plate_id":4,
+      "postNum|1-100":100
+    },
+    {
+      "nick_name": "小航",
+      "id": 4,
+      "sex":"女",
+      "email":"1452@123.com",
+      "update_time":"1212-21-21",
+      "signature|3":"我是妹妹",
+      "integral":96,
+      "role_name":"普通用户",
+      "plate_id":4,
+      "plate_name":"游戏",
+      "postNum|1-100":100
+    },
+    {
+      "nick_name": "tan",
+      "id": 5,
+      "sex":"女",
+      "email":"15552@123.com",
+      "update_time":"1212-21-21",
+      "signature|3":"我是jiage",
+      "integral":96,
+      "role_name":"普通用户",
+      "plate_id":4,
+      "plate_name":"完",
+      "postNum|1-100":130
+    },
+    {
+      "nick_name": "qixi",
+      "id": 6,
+      "sex":"女",
+      "email":"132@123.com",
+      "update_time":"1212-21-21",
+      "signature":"我是爸爸",
+      "integral":566,
+      "role_name":"普通用户",
+      "plate_id":4,
+      "plate_name":"谭佳版块",
+      "postNum|1-100":100
+    },
+    {
+      "nick_name": "ddfdsf",
+      "id": 1,
+      "sex":"女",
+      "email":"1232@123.com",
+      "update_time":"1212-21-21",
+      "signature":"我只是个传输",
+      "integral":10,
+      "role_name":"普通用户",
+      "plate_id":1,
+      "plate_name":"学习版块",
+      "postNum|1-100":20
+    },
+    {
+      "nick_name": "下一名",
+      "id": 2,
+      "sex":"女",
+      "email":"1232@123.com",
+      "update_time":"1212-21-21",
+      "signature":"我是爸爸",
+      "integral":30,
+      "role_name":"版主",
+      "plate_id":1,
+      "plate_name":"生活版块",
+      "postNum|1-100":20
+    },
+    {
+      "nick_name|3": "王旭航",
+      "id": 3,
+      "sex":"女",
+      "email":"1232@123.com",
+      "update_time":"1212-21-21",
+      "signature|3":"我是爸爸",
+      "integral":566,
+      "role_name":"普通用户",
+      "plate_id":4,
+      "postNum|1-100":100
+    },
+    {
+      "nick_name": "小航",
+      "id": 4,
+      "sex":"女",
+      "email":"1452@123.com",
+      "update_time":"1212-21-21",
+      "signature|3":"我是妹妹",
+      "integral":96,
+      "role_name":"普通用户",
+      "plate_id":4,
+      "plate_name":"游戏",
+      "postNum|1-100":100
+    },
+    {
+      "nick_name": "tan",
+      "id": 5,
+      "sex":"女",
+      "email":"15552@123.com",
+      "update_time":"1212-21-21",
+      "signature|3":"我是jiage",
+      "integral":96,
+      "role_name":"普通用户",
+      "plate_id":4,
+      "plate_name":"完",
+      "postNum|1-100":130
+    },
+    {
+      "nick_name": "qixi",
+      "id": 6,
+      "sex":"女",
+      "email":"132@123.com",
+      "update_time":"1212-21-21",
+      "signature":"我是爸爸",
+      "integral":566,
+      "role_name":"普通用户",
+      "plate_id":4,
+      "plate_name":"谭佳版块",
+      "postNum|1-100":100
+    },
+    {
+      "nick_name": "航",
+      "id": 17,
+      "sex":"女",
+      "email":"1232@123.com",
+      "update_time":"1212-21-21",
+      "signature|3":"我爸爸",
+      "integral":566,
+      "role_name":"普通用户",
+      "plate_id":4,
+      "plate_name":"不知道",
+      "postNum|1-100":100
+    }
+  ],
+  "searchuser":[
+    {
+      "nick_name": "qixi",
+      "id": 6,
+      "sex":"女",
+      "email":"132@123.com",
+      "update_time":"1212-21-21",
+      "signature":"我是爸爸",
+      "integral":566,
+      "role_name":"普通用户",
+      "plate_id":4,
+      "plate_name":"谭佳版块",
+      "postNum|1-100":100
+    },
+    {
+      "nick_name": "qixi",
+      "id": 6,
+      "sex":"女",
+      "email":"132@123.com",
+      "update_time":"1212-21-21",
+      "signature":"我是爸爸",
+      "integral":566,
+      "role_name":"普通用户",
+      "plate_id":4,
+      "plate_name":"谭佳版块",
+      "postNum|1-100":100
+    },
+    {
+      "nick_name": "qixi",
+      "id": 6,
+      "sex":"女",
+      "email":"132@123.com",
+      "update_time":"1212-21-21",
+      "signature":"我是爸爸",
+      "integral":566,
+      "role_name":"普通用户",
+      "plate_id":4,
+      "plate_name":"谭佳版块",
+      "postNum|1-100":100
+    },
+    {
+      "nick_name": "qixi",
+      "id": 6,
+      "sex":"女",
+      "email":"132@123.com",
+      "update_time":"1212-21-21",
+      "signature":"我是爸爸",
+      "integral":566,
+      "role_name":"普通用户",
+      "plate_id":4,
+      "plate_name":"谭佳版块",
+      "postNum|1-100":100
+    },
+    {
+      "nick_name": "qixi",
+      "id": 6,
+      "sex":"女",
+      "email":"132@123.com",
+      "update_time":"1212-21-21",
+      "signature":"我是爸爸",
+      "integral":566,
+      "role_name":"普通用户",
+      "plate_id":4,
+      "plate_name":"谭佳版块",
+      "postNum|1-100":100
+    },
+    {
+      "nick_name": "qixi",
+      "id": 6,
+      "sex":"女",
+      "email":"132@123.com",
+      "update_time":"1212-21-21",
+      "signature":"我是爸爸",
+      "integral":566,
+      "role_name":"普通用户",
+      "plate_id":4,
+      "plate_name":"谭佳版块",
+      "postNum|1-100":100
+    },
+    {
+      "nick_name": "qixi",
+      "id": 6,
+      "sex":"女",
+      "email":"132@123.com",
+      "update_time":"1212-21-21",
+      "signature":"我是爸爸",
+      "integral":566,
+      "role_name":"普通用户",
+      "plate_id":4,
+      "plate_name":"谭佳版块",
+      "postNum|1-100":100
+    },
+    {
+      "nick_name": "qixi",
+      "id": 6,
+      "sex":"女",
+      "email":"132@123.com",
+      "update_time":"1212-21-21",
+      "signature":"我是爸爸",
+      "integral":566,
+      "role_name":"普通用户",
+      "plate_id":4,
+      "plate_name":"谭佳版块",
+      "postNum|1-100":100
+    },
+    {
+      "nick_name": "qixi",
+      "id": 6,
+      "sex":"女",
+      "email":"132@123.com",
+      "update_time":"1212-21-21",
+      "signature":"我是爸爸",
+      "integral":566,
+      "role_name":"普通用户",
+      "plate_id":4,
+      "plate_name":"谭佳版块",
+      "postNum|1-100":100
+    },
+    {
+      "nick_name": "qixi",
+      "id": 6,
+      "sex":"女",
+      "email":"132@123.com",
+      "update_time":"1212-21-21",
+      "signature":"我是爸爸",
+      "integral":566,
+      "role_name":"普通用户",
+      "plate_id":4,
+      "plate_name":"谭佳版块",
+      "postNum|1-100":100
+    },
+    {
+      "nick_name": "qixi",
+      "id": 6,
+      "sex":"女",
+      "email":"132@123.com",
+      "update_time":"1212-21-21",
+      "signature":"我是爸爸",
+      "integral":566,
+      "role_name":"普通用户",
+      "plate_id":4,
+      "plate_name":"谭佳版块",
+      "postNum|1-100":100
+    },
+    {
+      "nick_name": "qixi",
+      "id": 6,
+      "sex":"女",
+      "email":"132@123.com",
+      "update_time":"1212-21-21",
+      "signature":"我是爸爸",
+      "integral":566,
+      "role_name":"普通用户",
+      "plate_id":4,
+      "plate_name":"谭佳版块",
+      "postNum|1-100":100
+    },
+    {
+      "nick_name": "qixi",
+      "id": 6,
+      "sex":"女",
+      "email":"132@123.com",
+      "update_time":"1212-21-21",
+      "signature":"我是爸爸",
+      "integral":566,
+      "role_name":"普通用户",
+      "plate_id":4,
+      "plate_name":"谭佳版块",
+      "postNum|1-100":100
+    }
+  ],
+  "plateUserList":[
+    {
+      "userid":1,
+      "nick_name":"tanjia"
+    },
+    {
+      "userid":12,
+      "nick_name":"tanjia2"
+    }
+  ],
+  "noplateuser":[
+    {
+      "plateid":1,
+      "plate_name":"学习版块"
+    },
+    {
+      "plateid":11,
+      "plate_name":"聊天版块"
+    }
+  ],
+  "plates":[
+    {
+      "plate_name": "学习",
+      "id": 1,
+      "description|1-10":"这里是讨论学习的地方",
+      "moderator_name|1-10":"admin",
+      "update_time":"1029-12-21",
+     "postNum|1-1000":20
+    },
+    {
+      "plate_name": "工作",
+      "id": 2,
+      "description|1-10":"工作的地方",
+      "moderator_name|1-10":"zhang12",
+      "update_time":"1029-12-21",
+      "postNum|1-1000":20
+    },
+    {
+      "plate_name": "休息",
+      "id": 3,
+      "description|1-10":"休息的地方",
+      "moderator_name|1-10":"tan",
+      "update_time":"1029-12-21",
+      "postNum|1-1000":20
+    },
+    {
+      "plate_name": "学习",
+      "id": 4,
+      "description|1-10":"这里是讨论学习的地方",
+      "moderator_name|1-10":"阿弟",
+      "update_time":"1029-12-21",
+      "postNum|1-1000":20
+    },
+    {
+      "plate_name": "学习",
+      "id": 5,
+      "description|1-10":"这里是讨论学习的地方",
+      "moderator_name|1-10":"版主的名字",
+      "update_time":"1029-12-21",
+      "postNum|1-1000":20
+    },
+    {
+      "plate_name": "学习",
+      "id": 6,
+      "description|1-10":"这里是讨论学习的地方",
+      "moderator_name|1-10":"213",
+      "update_time":"1029-12-21",
+      "postNum|1-1000":20
+    }
+  ],
+  "plates2":[{
+    "plate_name": "学习2222",
+    "id": 1,
+    "description|1-10":"这里是讨论学习的地方",
+    "moderator_name|1-10":"213",
+    "update_time":"1029-12-21",
+    "postNum|1-1000":20
+  }],
+  "plates3":[
+    {
+      "plate_name": "学习333333333",
+      "id": 1,
+      "description|1-10":"这里是讨论学习的地方",
+      "moderator_name|1-10":"213",
+      "update_time":"1029-12-21",
+      "postNum|1-1000":20
+    }
+  ],
+  "plates4":[{
+    "plate_name": "学习44444444444",
+    "id": 1,
+    "description|1-10":"这里是讨论学习的地方",
+    "moderator_name|1-10":"213",
+    "update_time":"1029-12-21",
+    "postNum|1-1000":20
+  }],
+  "plates5":[
+    {
+      "plate_name": "学习5555555555",
+      "id": 1,
+      "description|1-10":"这里是讨论学习的地方",
+      "moderator_name|1-10":"213",
+      "update_time":"1029-12-21",
+      "postNum|1-1000":20
+    }
+  ],
+  "articles":[
+    {
+      "id":1,
+      "title": "关于Vue.js",
+      "nick_name": "TanJia",
+      "plate_name":"学习版块",
+      "update_time":"2019-03-23",
+      "comment_num|1-500":20,
+      "click_num|1-50":20,
+      "is_top":0
+    },
+    {
+      "id":2,
+      "title": "第二篇文章",
+      "nick_name": "大哥",
+      "plate_name":"学习版块",
+      "update_time":"1029-12-21",
+      "comment_num|1-1000":20,
+      "click_num|1-50":20,
+      "is_top":1,
+      "update_time":"1029-12-21"
+    },
+    {
+      "id":1,
+      "title": "第3篇文章",
+      "nick_name": "谭佳",
+      "plate_name":"学习版块",
+      "update_time":"1029-12-21",
+      "comment_num|1-500":20,
+      "click_num|1-50":20,
+      "is_top":0,
+      "update_time":"1029-12-21"
+    },
+    {
+      "id":1,
+      "title": "第4篇文章",
+      "nick_name": "谭佳",
+      "plate_name":"学习版块",
+      "update_time":"1029-12-21",
+      "comment_num|1-500":20,
+      "click_num|1-50":20,
+      "is_top":0,
+      "update_time":"1029-12-21"
+    },
+    {
+      "id":1,
+      "title": "第5篇文章",
+      "nick_name": "谭佳",
+      "plate_name":"学习版块",
+      "update_time":"1029-12-21",
+      "comment_num|1-500":20,
+      "click_num|1-50":20,
+      "is_top":0,
+      "update_time":"1029-12-21"
+    },
+    {
+      "id":1,
+      "title": "第6篇文章",
+      "nick_name": "谭佳",
+      "plate_name":"学习版块",
+      "update_time":"1029-12-21",
+      "comment_num|1-500":20,
+      "click_num|1-50":20,
+      "is_top":0,
+      "update_time":"1029-12-21"
+    },
+    {
+      "id":1,
+      "title": "第7篇文章",
+      "nick_name": "谭佳",
+      "plate_name":"学习版块",
+      "update_time":"1029-12-21",
+      "comment_num|1-500":20,
+      "click_num|1-50":20,
+      "is_top":0,
+      "update_time":"1029-12-21"
+    },
+    {
+      "id":1,
+      "title": "如何使用mockjs",
+      "nick_name": "谭佳",
+      "plate_name":"学习版块",
+      "update_time":"1029-12-21",
+      "comment_num|1-500":20,
+      "click_num|1-50":20,
+      "is_top":0,
+      "update_time":"1029-12-21"
+    },
+    {
+      "id":1,
+      "title": "如何使用mockjs",
+      "nick_name": "谭佳",
+      "plate_name":"学习版块",
+      "update_time":"1029-12-21",
+      "comment_num|1-500":20,
+      "click_num|1-50":20,
+      "is_top":0,
+      "update_time":"1029-12-21"
+    },
+    {
+      "id":1,
+      "title": "如何使用mockjs",
+      "nick_name": "谭佳",
+      "plate_name":"学习版块",
+      "update_time":"1029-12-21",
+      "comment_num|1-500":20,
+      "click_num|1-50":20,
+      "is_top":0,
+      "update_time":"1029-12-21"
+    },
+    {
+      "id":1,
+      "title": "如何使用mockjs",
+      "nick_name": "谭佳",
+      "plate_name":"学习版块",
+      "update_time":"1029-12-21",
+      "comment_num|1-500":20,
+      "click_num|1-50":20,
+      "is_top":0,
+      "update_time":"1029-12-21"
+    },
+    {
+      "id":1,
+      "title": "如何使用mockjs",
+      "nick_name": "谭佳",
+      "plate_name":"学习版块",
+      "update_time":"1029-12-21",
+      "comment_num|1-500":20,
+      "click_num|1-50":20,
+      "is_top":0,
+      "update_time":"1029-12-21"
+    },
+    {
+      "id":1,
+      "title": "如何使用mockjs",
+      "nick_name": "谭佳",
+      "plate_name":"学习版块",
+      "update_time":"1029-12-21",
+      "comment_num|1-500":20,
+      "click_num|1-50":20,
+      "is_top":0,
+      "update_time":"1029-12-21"
+    },
+    {
+      "id":1,
+      "title": "如何使用mockjs",
+      "nick_name": "谭佳",
+      "plate_name":"学习版块",
+      "update_time":"1029-12-21",
+      "comment_num|1-500":20,
+      "click_num|1-50":20,
+      "is_top":0,
+      "update_time":"1029-12-21"
+    },
+    {
+      "id":1,
+      "title": "如何使用mockjs",
+      "nick_name": "谭佳",
+      "plate_name":"学习版块",
+      "update_time":"1029-12-21",
+      "comment_num|1-500":20,
+      "click_num|1-50":20,
+      "is_top":0,
+      "update_time":"1029-12-21"
+    }
+  ],
+  "comments":[
+    {
+      "id":1,
+      "topic_id":1,
+      "topic":"这是文章的标题",
+      "nick_name":"这是评论者",
+      "content":"这是评论的内容",
+      "comment_type":"1"
+    },
+    {
+      "id":2,
+      "topic_id":12,
+      "topic":"这是文章的标题2",
+      "nick_name":"这是评论者2",
+      "content":"这是评论的内容2这是评论的内容2这是评论的内容2这是评论的内容2这是评论的内容2",
+      "comment_type":"2"
+    }
+  ],
+  "articleDetail":{
+    "id":3,
+    "title": "关于Vue.js",
+    "content":" 这个假期接触了网页前端的又一个利器，vue.js,它的主要特点在于对数据的双向绑定。想想之前用最原始的js的时候，我们更改页面上的数据，经常会用到InnerHTML，getElementById的代码，它实际上是在对DOM元素进行添加或修改，包括jQuery,也是通过查找页面源代码中的DOM标签，达到了动态效果的实现，当我们确定要对页面上某一元素进行修改的时候，会用id或name 进行元素查找，然后再找到它对应的value，text去改变它的值。但接触了vue.js之后我再也没有对元素添加过id和name，而是大部分在使用v-bind v-on还有语法糖v-model,以及{{}}。下面的文章中都会有所提到。我主要从 控件 方面，CSS 方面，以及 事件 三方面说起。",
+    "nick_name": "TanJia",
+    "plate_name":"学习版块",
+    "update_time":"1029-12-21",
+    "comment_num|1-1000":20,
+    "comment_content":[
+      {
+        "id":1,
+        "user_id":1,
+        "nick_name":"tanj",
+        "photo":"",
+        "comment_type":2,
+        "topic_id":1,
+        "content":"这是tanj的评论tanj的评论",
+        "update_time":"2019-07-30 17:30:24"
+      },
+      {
+        "id":2,
+        "user_id":2,
+        "nick_name":"xiaohang",
+        "photo":"",
+        "comment_type":2,
+        "topic_id":1,
+        "content":"这是xiaohang的评论xiaohang的评论",
+        "update_time":"2019-07-30 17:30:24"
+      },
+      {
+        "id":3,
+        "user_id":3,
+        "nick_name":"zhang",
+        "photo":"",
+        "comment_type":2,
+        "topic_id":1,
+        "content":"这是zhang的评论zhang的评论",
+        "update_time":"2019-07-30 17:30:24"
+      },
+      {
+        "id":4,
+        "user_id":4,
+        "nick_name":"dage",
+        "photo":"",
+        "comment_type":2,
+        "topic_id":1,
+        "content":"这是dage的评论dage的评论",
+        "update_time":"2019-07-30 17:30:24"
+      }
+    ],
+    "click_num|1-50":20,
+    "is_top":1,
+    "update_time":"1029-12-21"
+  },
+  "addplate":{
+    "status": 1,
+    "success": "添加版块信息成功"
+  },
+  "adduser":{
+    "status": 1,
+    "success": "添加用户信息成功"
+  },
+  "userdetail":{
+    "nick_name": "ddfdsf",
+    "id": 1,
+    "sex":"男",
+    "email":"1232@123.com",
+    "update_time":"1212-21-21",
+    "signature":"我只是个传输",
+    "integral":10,
+    "role_name":"版主",
+    "photo":"../assets/img/user.png",
+    "plate_id":1,
+    "plate_name":"学习版块",
+    "postNum|1-100":20
+  },
+  "platedetail": {
+    "plate_name": "学习",
+    "id": 1,
+    "description|1-10":"这里是讨论学习的地方",
+    "moderator_name|1-10":"213",
+    "update_time":"1029-12-21",
+    "postNum|1-1000":20
+  },
+  "editplate":{
+    "status": 1,
+    "success": "修改版块信息成功"
+  },
+  "delete":{
+    "status": 1,
+    "success": "修改版块信息成功"
+  },
+  "searchplate":[
+    {
+      "plate_name": "学习",
+      "id": 10,
+      "description|1-10":"这里是搜索的结果",
+      "moderator_name|1-10":"213",
+      "update_time":"1029-12-21",
+      "postNum|1-1000":20
+    },
+    {
+      "plate_name": "学习2",
+      "id": 10,
+      "description|1-10":"这里是搜索的结果",
+      "moderator_name|1-10":"213",
+      "update_time":"1029-12-21",
+      "postNum|1-1000":20
+    },
+    {
+      "plate_name": "学习3",
+      "id": 10,
+      "description|1-10":"这里是搜索的结果",
+      "moderator_name|1-10":"213",
+      "update_time":"1029-12-21",
+      "postNum|1-1000":20
+    },
+    {
+      "plate_name": "学习4",
+      "id": 10,
+      "description|1-10":"这里是搜索的结果",
+      "moderator_name|1-10":"213",
+      "update_time":"1029-12-21",
+      "postNum|1-1000":20
+    },
+    {
+      "plate_name": "搜索",
+      "id": 10,
+      "description|1-10":"这里是搜索的结果",
+      "moderator_name|1-10":"213",
+      "update_time":"1029-12-21",
+      "postNum|1-1000":20
+    },
+    {
+      "plate_name": "搜索",
+      "id": 10,
+      "description|1-10":"这里是搜索的结果",
+      "moderator_name|1-10":"213",
+      "update_time":"1029-12-21",
+      "postNum|1-1000":20
+    },
+    {
+      "plate_name": "搜索",
+      "id": 10,
+      "description|1-10":"这里是搜索的结果",
+      "moderator_name|1-10":"213",
+      "update_time":"1029-12-21",
+      "postNum|1-1000":20
+    },{
+      "plate_name": "搜索",
+      "id": 10,
+      "description|1-10":"这里是搜索的结果",
+      "moderator_name|1-10":"213",
+      "update_time":"1029-12-21",
+      "postNum|1-1000":20
+    },
+    {
+      "plate_name": "搜索",
+      "id": 10,
+      "description|1-10":"这里是搜索的结果",
+      "moderator_name|1-10":"213",
+      "update_time":"1029-12-21",
+      "postNum|1-1000":20
+    },
+    {
+      "plate_name": "搜索",
+      "id": 10,
+      "description|1-10":"这里是搜索的结果",
+      "moderator_name|1-10":"213",
+      "update_time":"1029-12-21",
+      "postNum|1-1000":20
+    },
+    {
+      "plate_name": "搜索",
+      "id": 10,
+      "description|1-10":"这里是搜索的结果",
+      "moderator_name|1-10":"213",
+      "update_time":"1029-12-21",
+      "postNum|1-1000":20
+    },
+    {
+      "plate_name": "搜索",
+      "id": 10,
+      "description|1-10":"这里是搜索的结果",
+      "moderator_name|1-10":"213",
+      "update_time":"1029-12-21",
+      "postNum|1-1000":20
+    },
+    {
+      "plate_name": "搜索2",
+      "id": 12,
+      "description|1-10":"这里是搜索的结果2",
+      "moderator_name|1-10":"213",
+      "update_time":"1029-12-21",
+      "postNum|1-1000":20
+    }
+  ],
+  "searcharticle":[
+    {
+      "id":1,
+      "title": "如何使用mockjs",
+      "nick_name": "谭佳tanjjj",
+      "plate_name":"学习版块",
+      "update_time":"1029-12-21",
+      "comment_num|1-500":20,
+      "click_num|1-50":20,
+      "is_top":0,
+      "update_time":"1029-12-21"
+    },
+    {
+      "id":1,
+      "title": "如何使用mockjs",
+      "nick_name": "谭佳tanjjj",
+      "plate_name":"学习版块",
+      "update_time":"1029-12-21",
+      "comment_num|1-500":20,
+      "click_num|1-50":20,
+      "is_top":0,
+      "update_time":"1029-12-21"
+    },
+    {
+      "id":1,
+      "title": "如何使用mockjs",
+      "nick_name": "谭佳tanjjj",
+      "plate_name":"学习版块",
+      "update_time":"1029-12-21",
+      "comment_num|1-500":20,
+      "click_num|1-50":20,
+      "is_top":0,
+      "update_time":"1029-12-21"
+    },
+    {
+      "id":1,
+      "title": "如何使用mockjs",
+      "nick_name": "谭佳tanjjj",
+      "plate_name":"学习版块",
+      "update_time":"1029-12-21",
+      "comment_num|1-500":20,
+      "click_num|1-50":20,
+      "is_top":0,
+      "update_time":"1029-12-21"
+    },
+    {
+      "id":1,
+      "title": "如何使用mockjs",
+      "nick_name": "谭佳tanjjj",
+      "plate_name":"学习版块",
+      "update_time":"1029-12-21",
+      "comment_num|1-500":20,
+      "click_num|1-50":20,
+      "is_top":0,
+      "update_time":"1029-12-21"
+    },
+    {
+      "id":1,
+      "title": "如何使用mockjs",
+      "nick_name": "谭佳tanjjj",
+      "plate_name":"学习版块",
+      "update_time":"1029-12-21",
+      "comment_num|1-500":20,
+      "click_num|1-50":20,
+      "is_top":0,
+      "update_time":"1029-12-21"
+    },
+    {
+      "id":1,
+      "title": "如何使用mockjs",
+      "nick_name": "谭佳tanjjj",
+      "plate_name":"学习版块",
+      "update_time":"1029-12-21",
+      "comment_num|1-500":20,
+      "click_num|1-50":20,
+      "is_top":0,
+      "update_time":"1029-12-21"
+    },
+    {
+      "id":1,
+      "title": "如何使用mockjs",
+      "nick_name": "谭佳tanjjj",
+      "plate_name":"学习版块",
+      "update_time":"1029-12-21",
+      "comment_num|1-500":20,
+      "click_num|1-50":20,
+      "is_top":0,
+      "update_time":"1029-12-21"
+    },
+    {
+      "id":1,
+      "title": "如何使用mockjs",
+      "nick_name": "谭佳tanjjj",
+      "plate_name":"学习版块",
+      "update_time":"1029-12-21",
+      "comment_num|1-500":20,
+      "click_num|1-50":20,
+      "is_top":0,
+      "update_time":"1029-12-21"
+    },
+    {
+      "id":1,
+      "title": "如何使用mockjs",
+      "nick_name": "谭佳tanjjj",
+      "plate_name":"学习版块",
+      "update_time":"1029-12-21",
+      "comment_num|1-500":20,
+      "click_num|1-50":20,
+      "is_top":0,
+      "update_time":"1029-12-21"
+    },
+    {
+      "id":1,
+      "title": "如何使用mockjs",
+      "nick_name": "谭佳tanjjj",
+      "plate_name":"学习版块",
+      "update_time":"1029-12-21",
+      "comment_num|1-500":20,
+      "click_num|1-50":20,
+      "is_top":0,
+      "update_time":"1029-12-21"
+    },
+    {
+      "id":1,
+      "title": "如何使用mockjs",
+      "nick_name": "谭佳tanjjj",
+      "plate_name":"学习版块",
+      "update_time":"1029-12-21",
+      "comment_num|1-500":20,
+      "click_num|1-50":20,
+      "is_top":0,
+      "update_time":"1029-12-21"
+    }
+  ],
+  "searchcomment":[
+    {
+      "id":1,
+      "topic_id":1,
+      "topic":"关于Vue.js",
+      "nick_name":"这是评论者",
+      "content":"这是评论的内容",
+      "comment_type":"1"
+    },
+    {
+      "id":1,
+      "topic_id":1,
+      "topic":"第二篇文章",
+      "nick_name":"这是评论者",
+      "content":"这是评论的内容",
+      "comment_type":"1"
+    },
+    {
+      "id":1,
+      "topic_id":1,
+      "topic":"第3篇文章",
+      "nick_name":"这是评论者",
+      "content":"这是评论的内容",
+      "comment_type":"1"
+    },
+    {
+      "id":1,
+      "topic_id":1,
+      "topic":"第4篇文章",
+      "nick_name":"这是评论者",
+      "content":"这是评论的内容",
+      "comment_type":"1"
+    },
+    {
+      "id":1,
+      "topic_id":1,
+      "topic":"第5篇文章",
+      "nick_name":"这是评论者",
+      "content":"这是评论的内容",
+      "comment_type":"1"
+    },
+    {
+      "id":1,
+      "topic_id":1,
+      "topic":"第6篇文章",
+      "nick_name":"这是评论者",
+      "content":"这是评论的内容",
+      "comment_type":"1"
+    },
+    {
+      "id":1,
+      "topic_id":1,
+      "topic":"第7篇文章",
+      "nick_name":"这是评论者",
+      "content":"这是评论的内容",
+      "comment_type":"1"
+    },
+    {
+      "id":1,
+      "topic_id":1,
+      "topic":"第5篇文章",
+      "nick_name":"这是评论者",
+      "content":"这是评论的内容",
+      "comment_type":"1"
+    },
+    {
+      "id":1,
+      "topic_id":1,
+      "topic":"贪贪贪",
+      "nick_name":"这是评论者",
+      "content":"这是评论的内容",
+      "comment_type":"1"
+    },
+    {
+      "id":1,
+      "topic_id":1,
+      "topic":"贪贪贪",
+      "nick_name":"这是评论者",
+      "content":"这是评论的内容",
+      "comment_type":"1"
+    }
+
+  ],
+  "login":{
+    "status": 1,
+    "message": "登录成功",
+    "user_id":12
+  },
+  "loginUser":{
+    "nick_name":"TanJia",
+    "role_name":"管理员",
+    "plate_id":1,
+    "plate_name":"学习版块"
+  },
+  "userArticleChart":{
+    "xAxis":["2月","3月","4月","5月","6月"],
+    "yAxisUser":[1320, 3330, 1000, 2000, 932],
+    "yAxisArticle":[2320, 1430, 1100, 2090, 1932]
+  },
+  "plateArticleChart":[
+    {"value":135, "name":"学习"},
+    {"value":310, "name":"生活"},
+    {"value":234, "name":"跳蚤市场"},
+    {"value":135, "name":"Vue"},
+    {"value":548, "name":"SSM"}
+  ],
+  "allnumber":{
+    "userNum":100,
+    "plateNum":10,
+    "articleNum":2308,
+    "commentNum":3223
+  },
+  "newFive":{
+    "newUser":[
+      {
+        "id":1,
+        "nick_name":"tanj",
+        "update_time":"2019-05-29 10:17:55"
+      },
+      {
+        "id":2,
+        "nick_name":"zhang",
+        "update_time":"2019-05-29 10:17:55"
+      },
+      {
+        "id":3,
+        "nick_name":"dasudia",
+        "update_time":"2019-05-29 10:17:55"
+      },
+      {
+        "id":4,
+        "nick_name":"gdfgdfg",
+        "update_time":"2019-05-29 10:17:55"
+      },
+      {
+        "id":5,
+        "nick_name":"此阿姨们",
+        "update_time":"2019-05-29 10:17:55"
+      }
+    ],
+    "newPlate":[
+      {
+        "id":1,
+        "plate_name":"学习",
+        "description":"这是学习的地方",
+        "update_time":"2019-05-29 10:17:55"
+      },
+      {
+        "id":2,
+        "plate_name":"学习",
+        "description":"这是学习的地方",
+        "update_time":"2019-05-29 10:17:55"
+      },
+      {
+        "id":3,
+        "plate_name":"学习",
+        "description":"这是学习的地方",
+        "update_time":"2019-05-29 10:17:55"
+      },
+      {
+        "id":4,
+        "plate_name":"学习",
+        "description":"这是学习的地方",
+        "update_time":"2019-05-29 10:17:55"
+      },
+      {
+        "id":5,
+        "plate_name":"学习",
+        "description":"这是学习的地方",
+        "update_time":"2019-05-29 10:17:55"
+      }
+    ],
+    "newArticle":[
+      {
+        "id":1,
+        "title":"文章的标题",
+        "nick_name":"tanjiajia",
+        "update_time":"2019-05-29 10:17:55"
+      },
+      {
+        "id":1,
+        "title":"文章的标题",
+        "nick_name":"tanjiajia",
+        "update_time":"2019-05-29 10:17:55"
+      },
+      {
+        "id":1,
+        "title":"文章的标题",
+        "nick_name":"tanjiajia",
+        "update_time":"2019-05-29 10:17:55"
+      },
+      {
+        "id":1,
+        "title":"文章的标题",
+        "nick_name":"tanjiajia",
+        "update_time":"2019-05-29 10:17:55"
+      },
+      {
+        "id":1,
+        "title":"文章的标题",
+        "nick_name":"tanjiajia",
+        "update_time":"2019-05-29 10:17:55"
+      }
+    ]
+  },
+  "plateUserPlateList":[
+    {
+      "plate_name": "版主",
+      "id": 1,
+      "description|1-10":"版主版主版主",
+      "moderator_name|1-10":"213",
+      "update_time":"1029-12-21",
+      "postNum|1-1000":20
+    },
+    {
+      "plate_name": "版主",
+      "id": 2,
+      "description|1-10":"版主版主版主",
+      "moderator_name|1-10":"213",
+      "update_time":"1029-12-21",
+      "postNum|1-1000":20
+    }
+  ],
+  "plateUserArticleList":[
+    {
+      "id":1,
+      "title": "如何使用mockjs",
+      "nick_name": "谭佳",
+      "plate_name":"学习版块",
+      "update_time":"1029-12-21",
+      "comment_num|1-500":20,
+      "click_num|1-50":20,
+      "is_top":0,
+      "update_time":"1029-12-21"
+    },
+    {
+      "id":1,
+      "title": "如何使用mockjs",
+      "nick_name": "谭佳",
+      "plate_name":"学习版块",
+      "update_time":"1029-12-21",
+      "comment_num|1-500":20,
+      "click_num|1-50":20,
+      "is_top":0,
+      "update_time":"1029-12-21"
+    },
+    {
+      "id":1,
+      "title": "如何使用mockjs",
+      "nick_name": "谭佳",
+      "plate_name":"学习版块",
+      "update_time":"1029-12-21",
+      "comment_num|1-500":20,
+      "click_num|1-50":20,
+      "is_top":0,
+      "update_time":"1029-12-21"
+    },
+    {
+      "id":1,
+      "title": "如何使用mockjs",
+      "nick_name": "谭佳",
+      "plate_name":"学习版块",
+      "update_time":"1029-12-21",
+      "comment_num|1-500":20,
+      "click_num|1-50":20,
+      "is_top":0,
+      "update_time":"1029-12-21"
+    },
+    {
+      "id":1,
+      "title": "如何使用mockjs",
+      "nick_name": "谭佳",
+      "plate_name":"学习版块",
+      "update_time":"1029-12-21",
+      "comment_num|1-500":20,
+      "click_num|1-50":20,
+      "is_top":0,
+      "update_time":"1029-12-21"
+    },
+    {
+      "id":1,
+      "title": "如何使用mockjs",
+      "nick_name": "谭佳",
+      "plate_name":"学习版块",
+      "update_time":"1029-12-21",
+      "comment_num|1-500":20,
+      "click_num|1-50":20,
+      "is_top":0,
+      "update_time":"1029-12-21"
+    },
+    {
+      "id":1,
+      "title": "如何使用mockjs",
+      "nick_name": "谭佳",
+      "plate_name":"学习版块",
+      "update_time":"1029-12-21",
+      "comment_num|1-500":20,
+      "click_num|1-50":20,
+      "is_top":0,
+      "update_time":"1029-12-21"
+    },
+    {
+      "id":1,
+      "title": "如何使用mockjs",
+      "nick_name": "谭佳",
+      "plate_name":"学习版块",
+      "update_time":"1029-12-21",
+      "comment_num|1-500":20,
+      "click_num|1-50":20,
+      "is_top":0,
+      "update_time":"1029-12-21"
+    },
+    {
+      "id":1,
+      "title": "如何使用mockjs",
+      "nick_name": "谭佳",
+      "plate_name":"学习版块",
+      "update_time":"1029-12-21",
+      "comment_num|1-500":20,
+      "click_num|1-50":20,
+      "is_top":0,
+      "update_time":"1029-12-21"
+    },
+    {
+      "id":1,
+      "title": "如何使用mockjs",
+      "nick_name": "谭佳",
+      "plate_name":"学习版块",
+      "update_time":"1029-12-21",
+      "comment_num|1-500":20,
+      "click_num|1-50":20,
+      "is_top":0,
+      "update_time":"1029-12-21"
+    },
+    {
+      "id":1,
+      "title": "如何使用mockjs",
+      "nick_name": "谭佳",
+      "plate_name":"学习版块",
+      "update_time":"1029-12-21",
+      "comment_num|1-500":20,
+      "click_num|1-50":20,
+      "is_top":0,
+      "update_time":"1029-12-21"
+    },
+    {
+      "id":1,
+      "title": "如何使用mockjs",
+      "nick_name": "谭佳",
+      "plate_name":"学习版块",
+      "update_time":"1029-12-21",
+      "comment_num|1-500":20,
+      "click_num|1-50":20,
+      "is_top":0,
+      "update_time":"1029-12-21"
+    },
+    {
+      "id":1,
+      "title": "如何使用mockjs",
+      "nick_name": "谭佳",
+      "plate_name":"学习版块",
+      "update_time":"1029-12-21",
+      "comment_num|1-500":20,
+      "click_num|1-50":20,
+      "is_top":0,
+      "update_time":"1029-12-21"
+    },
+    {
+      "id":1,
+      "title": "如何使用mockjs",
+      "nick_name": "谭佳",
+      "plate_name":"学习版块",
+      "update_time":"1029-12-21",
+      "comment_num|1-500":20,
+      "click_num|1-50":20,
+      "is_top":0,
+      "update_time":"1029-12-21"
+    },
+    {
+      "id":1,
+      "title": "如何使用mockjs",
+      "nick_name": "谭佳",
+      "plate_name":"学习版块",
+      "update_time":"1029-12-21",
+      "comment_num|1-500":20,
+      "click_num|1-50":20,
+      "is_top":0,
+      "update_time":"1029-12-21"
+    },
+    {
+      "id":1,
+      "title": "如何使用mockjs",
+      "nick_name": "谭佳",
+      "plate_name":"学习版块",
+      "update_time":"1029-12-21",
+      "comment_num|1-500":20,
+      "click_num|1-50":20,
+      "is_top":0,
+      "update_time":"1029-12-21"
+    },
+    {
+      "id":1,
+      "title": "如何使用mockjs",
+      "nick_name": "谭佳",
+      "plate_name":"学习版块",
+      "update_time":"1029-12-21",
+      "comment_num|1-500":20,
+      "click_num|1-50":20,
+      "is_top":0,
+      "update_time":"1029-12-21"
+    }
+
+  ],
+  "plateUserCommontList":[
+    {
+      "id":1,
+      "topic_id":1,
+      "topic":"这是文章的标题",
+      "nick_name":"这是评论者",
+      "content":"这是评论的内容",
+      "comment_type":"1"
+    },
+    {
+      "id":1,
+      "topic_id":1,
+      "topic":"这是文章的标题",
+      "nick_name":"这是评论者",
+      "content":"这是评论的内容",
+      "comment_type":"1"
+    },
+    {
+      "id":1,
+      "topic_id":1,
+      "topic":"这是文章的标题",
+      "nick_name":"这是评论者",
+      "content":"这是评论的内容",
+      "comment_type":"1"
+    },
+    {
+      "id":1,
+      "topic_id":1,
+      "topic":"这是文章的标题",
+      "nick_name":"这是评论者",
+      "content":"这是评论的内容",
+      "comment_type":"1"
+    },
+    {
+      "id":1,
+      "topic_id":1,
+      "topic":"这是文章的标题",
+      "nick_name":"这是评论者",
+      "content":"这是评论的内容",
+      "comment_type":"1"
+    },
+    {
+      "id":1,
+      "topic_id":1,
+      "topic":"这是文章的标题",
+      "nick_name":"这是评论者",
+      "content":"这是评论的内容",
+      "comment_type":"1"
+    },
+    {
+      "id":1,
+      "topic_id":1,
+      "topic":"这是文章的标题",
+      "nick_name":"这是评论者",
+      "content":"这是评论的内容",
+      "comment_type":"1"
+    },
+    {
+      "id":1,
+      "topic_id":1,
+      "topic":"这是文章的标题",
+      "nick_name":"这是评论者",
+      "content":"这是评论的内容",
+      "comment_type":"1"
+    },
+    {
+      "id":1,
+      "topic_id":1,
+      "topic":"这是文章的标题",
+      "nick_name":"这是评论者",
+      "content":"这是评论的内容",
+      "comment_type":"1"
+    },
+    {
+      "id":1,
+      "topic_id":1,
+      "topic":"这是文章的标题",
+      "nick_name":"这是评论者",
+      "content":"这是评论的内容",
+      "comment_type":"1"
+    }
+    , {
+      "id":1,
+      "topic_id":1,
+      "topic":"这是文章的标题",
+      "nick_name":"这是评论者",
+      "content":"这是评论的内容",
+      "comment_type":"1"
+    }
+  ],
+  "allplatename":[
+    {
+      "id":"1",
+      "plate_name":"学习"
+    },
+    {
+      "id":"2",
+      "plate_name":"生活"
+    },
+    {
+      "id":"3",
+      "plate_name":"学习"
+    },
+    {
+      "id":"4",
+      "plate_name":"学习"
+    },
+    {
+      "id":"5",
+      "plate_name":"学习"
+    },
+    {
+      "id":"6",
+      "plate_name":"学习"
+    }
+  ]
+}
