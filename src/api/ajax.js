@@ -5,6 +5,7 @@ import Qs from 'qs'
 
 Vue.prototype.$axios = axios;
 export default function ajax(url,data={},type='GET') {
+  // console.log(url)
       // url = "http://127.0.0.1:3000"+url  //前后台分离，请求后台
   return new Promise(function (resolve,reject) {
     //执行异步ajax请求
@@ -20,7 +21,6 @@ export default function ajax(url,data={},type='GET') {
         url = url + '?' + dataStr
       }
       // 发送 get 请求
-      // console.log(url)
       promise = axios.get(url)
     } else {
       // console.log(postData)
