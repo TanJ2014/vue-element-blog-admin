@@ -36,7 +36,7 @@ npm start
 
 在线预览：https://tanj2014.github.io/vue-element-blog-admin/dist/
 
-更多详情查看：http://www.tanj.com.cn/resource/detail?id=5e79c2f3b59f63026ca95b4f
+更多详情查看：http://www.tanj.com.cn/resource/detail/5e79c2f3b59f63026ca95b4f
 
 # 相关API：
 
